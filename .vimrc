@@ -1,7 +1,7 @@
 " === Appearance ===
 syntax on               " Enable syntax highlighting
 set cursorline          " Highlight the current line
-set numberwidth=2       " Set width of line number column
+set numberwidth=4       " Set width of line number column
 set relativenumber      " Show relative line numbers
 set nowrap              " Do not wrap long lines
 colorscheme habamax     " Set colorscheme
